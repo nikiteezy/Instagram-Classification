@@ -1,0 +1,10 @@
+C:\Users\nikit\Documents\ML\Instagram Classification\MarkingData\MarkingData\bin\Debug\MarkingData.exe.config
+C:\Users\nikit\Documents\ML\Instagram Classification\MarkingData\MarkingData\bin\Debug\MarkingData.exe
+C:\Users\nikit\Documents\ML\Instagram Classification\MarkingData\MarkingData\bin\Debug\MarkingData.pdb
+C:\Users\nikit\Documents\ML\Instagram Classification\MarkingData\MarkingData\obj\Debug\MarkingData.csprojAssemblyReference.cache
+C:\Users\nikit\Documents\ML\Instagram Classification\MarkingData\MarkingData\obj\Debug\MarkingData.MainForm.resources
+C:\Users\nikit\Documents\ML\Instagram Classification\MarkingData\MarkingData\obj\Debug\MarkingData.Properties.Resources.resources
+C:\Users\nikit\Documents\ML\Instagram Classification\MarkingData\MarkingData\obj\Debug\MarkingData.csproj.GenerateResource.cache
+C:\Users\nikit\Documents\ML\Instagram Classification\MarkingData\MarkingData\obj\Debug\MarkingData.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Documents\ML\Instagram Classification\MarkingData\MarkingData\obj\Debug\MarkingData.exe
+C:\Users\nikit\Documents\ML\Instagram Classification\MarkingData\MarkingData\obj\Debug\MarkingData.pdb
